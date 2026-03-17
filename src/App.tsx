@@ -1,4 +1,4 @@
-import HabitTracker from "./components/habitTracker"
+import HabitTracker from "./components/HabitTracker"
 
 function App() {
   return (
